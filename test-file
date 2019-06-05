@@ -1,2 +1,5 @@
-This is test
-new line to test
+#!/bin/bash
+
+# test commit
+
+echo "test"
